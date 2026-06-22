@@ -236,7 +236,8 @@ Once the data is saved, your database transforms into a powerful information hub
 - ***Like-to-View Correlation***: This scatter plot analyzes whether videos with a high number of views also have a high number of likes.
 - ***Video Duration Distribution***: This bar chart shows the percentage of videos in the dataset that fall into *short* (<5 minutes), *medium* (5-20 minutes), and *long* (>20 minutes) categories
 
-<img width="1996" height="1592" alt="Zrzut ekranu 2025-09-15 o 19 55 03" src="https://github.com/user-attachments/assets/77694730-e0cf-41f3-8ead-60d2c13ec7fe" />
+<img width="987" height="789" alt="Zrzut ekranu 2026-06-21 o 14 42 21" src="https://github.com/user-attachments/assets/0b883abe-58d2-476c-9e8d-b58be1b447c6" />
+
 
 ## 💡 Insights from the Visualizations
 By looking at the visualizations, we can draw key conclusions:
